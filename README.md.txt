@@ -1,3 +1,7 @@
 #Demo projects
 #Nesto Novo
-problem
+<<<<<<< HEAD
+
+=======
+ovo izaziva probleme
+>>>>>>> very-bad
